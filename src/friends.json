@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Venom",
+    "image": "https://media.giphy.com/media/cICwDxuBcc9tm/giphy.gif",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Captain America",
+    "image": "https://media.giphy.com/media/CIj4FQvqOFAcM/giphy.gif",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Spiderman",
+    "image": "https://media.giphy.com/media/11uWTGRVbany92/giphy.gif",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Iceman",
+    "image": "https://media.giphy.com/media/FZjKlNSkjaVnG/giphy.gif",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Hulk",
+    "image": "https://media.giphy.com/media/vQ7lQTSseYdlS/giphy.gif",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Gambit",
+    "image": "https://media.giphy.com/media/10Frc9itx2M2hq/giphy.gif",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Storm",
+    "image": "https://media.giphy.com/media/hEyXNhrnQJvdC/giphy.gif",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Cyclops",
+    "image": "https://media.giphy.com/media/gnrKSE9J0ZAvS/giphy.gif",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Wolverine",
+    "image": "https://media.giphy.com/media/QlNfXRj10tDlm/giphy.gif",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Juggarnaut",
+    "image": "https://media.giphy.com/media/RH2ycxDCNHCWA/giphy.gif",
+    "clicked": false           
+  },
+  {
+    "id": 11,
+    "name": "Thor",
+    "image": "https://media.giphy.com/media/8Tf4rERttukhi/giphy.gif",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Iron Man",
+    "image": "https://media.giphy.com/media/B2rchFa2iBWKY/giphy.gif",
+    "clicked": false
+  },
+  {
+    "id": 13,
+    "name": "Colossus",
+    "image": "https://media.giphy.com/media/IEGzhJ3WojO5q/giphy.gif",
+    "clicked": false
+  },
+  {
+    "id": 14,
+    "name": "Carnage",
+    "image": "https://media.giphy.com/media/bjsFG0EbRR8aI/giphy.gif",
+    "clicked": false
+  },
+  {
+    "id": 15,
+    "name": "Deadpool",
+    "image": "https://media.giphy.com/media/wECUT8hRpz2N2/giphy.gif",
+    "clicked": false
+  },
+  {
+    "id": 16,
+    "name": "Dr. Doom",
+    "image": "https://media.giphy.com/media/oLdpSIefL90YM/giphy.gif",
+    "clicked": false
+  }  
+]

@@ -1,0 +1,30 @@
+
+h2,h4 {
+  text-align: center;
+  margin: 0px;
+}
+
+h2{
+
+}
+
+h4{
+
+}
+
+.title{
+	padding-top: 25px;
+	height: 200px;
+	margin-bottom: 25px;
+}
+
+@media only screen and (max-width : 992px) {
+
+
+}
+
+
+@media only screen and (max-width : 600px) {
+
+
+}
